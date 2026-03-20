@@ -16,4 +16,4 @@ Codex app handles most of my agentic coding as I find GPT models more reliable f
 AI handles the grunt work, but the thinking and taste are stubbornly mine.😤
 
 #### Best programming book?
-> [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00G1J1D28). Not a programming book.
+_Essentialism: The Disciplined Pursuit of Less_. Not a programming book.
