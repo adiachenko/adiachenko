@@ -15,7 +15,7 @@ Codex handles most of my agentic coding, since I find GPT models more reliable f
 
 I also use Claude for more creative work like technical writing.
 
-I stay hands-on and iterate with AI as a collaborator, without using elaborate delegation setups.
+I stay hands-on and treat AI as a collaborator. Less orchestration, more ping-pong.
 
 #### Best programming book?
 _Essentialism: The Disciplined Pursuit of Less_. Not a programming book.
